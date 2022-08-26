@@ -11,7 +11,5 @@ export function getPrismicClient(req?: unknown) {
         }
     )
 
-
-
     return prismic;
 }
